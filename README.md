@@ -21,5 +21,5 @@ tutorial/spiders目录下是自定义的爬虫文件
 ```
 
 # 参考
-[Scrapy 1.4 documentation](https://docs.scrapy.org/en/latest/index.html)
-[Scrapy 0.24 文档](http://scrapy-chs.readthedocs.io/zh_CN/0.24/index.html)
+- [Scrapy 1.4 documentation](https://docs.scrapy.org/en/latest/index.html)
+- [Scrapy 0.24 文档](http://scrapy-chs.readthedocs.io/zh_CN/0.24/index.html)
