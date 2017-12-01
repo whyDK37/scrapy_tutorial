@@ -11,6 +11,9 @@ Anaconda 安装方式
 ```
 >conda install -c conda-forge scrapy
 ```
+
+安装 dependency/Win64OpenSSL_Light-1_0_2m.exe ，使用默认安装目录即可。安装后把C:\OpenSSL-Win64\bin配置都path环境变量中。
+
 # 使用
 tutorial/spiders目录下是自定义的爬虫文件
 
