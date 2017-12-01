@@ -33,6 +33,7 @@ class TTSpider(scrapy.Spider):
         "http://www.rrdnyyy.com/post/Im7X5z76QkUZb8tb",
         "http://www.rrdnyyy.com/post/7etmwzFlYc0wwlHh",
         "http://www.rrdnyyy.com/post/unknow",
+        "http://www.rrdnyyy.com/post/7etmwzFlYc0wwlHh",
         "http://www.rrdnyyy.com/post/vyr4rmLIl8nmvZ62"
     ]
 
